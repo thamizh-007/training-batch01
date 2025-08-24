@@ -1,4 +1,4 @@
 Firstname: Thamizhvijayan Tamilvanan
 Lastname: Tamilvanan
-E-mail: thamizhvijayan1234@gmail.com
+E-mail: Thamizhvijayan <thamizhvijayan@gmail.com>
 Ph.no: +919080678525
